@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center"><👋 Hello World!/>, I'm Dhruvkumar Sonani</h1>
  <h3 align="center">I am Dhruvkumar, graduated from a web development post-graduate certificate program at Conestoga College with a bachelor’s in computer application. I transform ideas into intuitive web experiences with clean code and creative flair. Find out more about me & feel free to connect with me here.</h3>
 
